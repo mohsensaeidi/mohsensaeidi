@@ -68,12 +68,3 @@ Even though the source code for my main projects is private, here's a summary of
 | **Cybersecurity (Government Sector)** | Security Analyst     | Python, Network Analysis Tools                             | Analyzed software vulnerabilities and provided solutions to enhance security.     |
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsensaeidi&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=vue"/>
-  </a>
-</p>
